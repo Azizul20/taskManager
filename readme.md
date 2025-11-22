@@ -1,5 +1,5 @@
 # 📝 Task Manager – Django Project  
-A full-featured Task Management System built with Django for Module 19 Assignment.
+A full-featured Task Management System built with Django.
 
 
 ---
