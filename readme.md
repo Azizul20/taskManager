@@ -10,7 +10,7 @@ Follow these steps to set up and run the project.
 
 ### **1. Clone the Repository**
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/Azizul20/taskManager.git
 cd taskmanager
 ```
 ### **2. Create a Virtual Environment**
