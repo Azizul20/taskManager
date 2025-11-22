@@ -55,10 +55,10 @@ The objective of this project is to build a **Task Management System** using Dja
 ## 📸 Screenshots
 
 ### 🔐 Signup Page
-![Login Page](screenshorts/signup.png)
+![Signup Page](screenshorts/signup.png)
 
 ### 🔐 Login Page
-![Login Page](screenshots/login.png)
+![Login Page](screenshorts/login.png)
 
 ### 📋 Task List
 ![Task List](screenshorts/task_list.png)
